@@ -4,4 +4,10 @@ body{
 header{
     background-color: #D9D9D9;
     background-size: cover;
+
+}
+
+.carousel-item img{
+   max-width: 300px;
+    max-height: 400px;
 }
